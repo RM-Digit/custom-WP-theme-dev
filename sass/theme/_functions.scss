@@ -1,0 +1,4 @@
+//1rem = 14px
+@function convert2rem($size){
+    @return ($size / 14) * 1rem;
+}

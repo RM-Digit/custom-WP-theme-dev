@@ -1,0 +1,202 @@
+#wrapper-footer{
+    color: #ffffff;
+    padding: convert2rem(57) 0 convert2rem(27);
+    position: relative;
+    background: #032B5E linear-gradient(90deg, #032B5E 0%, #032B5E 100%);
+    &:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background: url('#{$theme-img-path}/bg-footer.png') no-repeat;
+        background-position: 101% 20%;
+        opacity:0.1;
+    }
+
+    .widget_nav_menu h5.widget-title {
+        font-size: 1.14286rem;
+    }
+}
+
+.widget_nav_menu div {
+    padding-left: 1.5rem;
+}
+
+.quest-background-image{
+    content: url('#{$theme-img-path}/logo-quest.png');
+    height: 50px;
+    width: 50px;
+
+}
+.our-services-footer{
+    h5{
+        font-weight:bold;
+    }
+    .list-services{
+        padding: 0;
+        list-style: none;
+        a{
+            color:#fff;
+            font-size:convert2rem(14);
+            line-height:convert2rem(17);
+        }
+        li{
+            margin: convert2rem(5) 0;
+        }
+    }
+}
+.href-link-footer{
+    h6{
+        margin-bottom: convert2rem(5);
+    }
+    a{
+        color:#fff;
+        font-size: convert2rem(16);
+        line-height:convert2rem(19);
+        font-weight:500;
+    }
+}
+.copyright-footer{
+    margin-top: convert2rem(48);
+    text-align: center;
+    p{
+        font-family: 'Meta OT';
+        font-size: convert2rem(13);
+        margin:0;
+    }
+}
+.font-12{
+    font-size:convert2rem(12);
+}
+.font-11{
+    font-size: convert2rem(11);
+}
+.copyright-img{
+    margin-top: convert2rem(-8);
+}
+.copyright-text{
+    font-size: convert2rem(9);
+    vertical-align: super;
+    margin-left: -2px;
+}
+
+#wrapper-footer{
+    ul{
+        padding: 0;
+        list-style: none;
+    }
+    a{
+        color:#FFF;
+    }
+    .about-logo{
+        margin-bottom: 1rem;
+        width:155px;
+    }
+    .about-info{
+        width: convert2rem(137);
+        em.fa{
+            font-size:convert2rem(20);
+            border: 1px solid;
+            padding: convert2rem(5) convert2rem(6);
+            border-radius: 25px;
+        }
+        em.fa-twitter{
+            padding: convert2rem(5) convert2rem(5.3);
+        }
+        em.fa-facebook{
+            padding: convert2rem(5) convert2rem(8.8);
+        }
+        em.fa-google-plus{
+            font-size:convert2rem(18);
+            padding: convert2rem(5.9) convert2rem(3);
+        }
+        em.fa-tumblr{
+            padding: convert2rem(6) convert2rem(9.7) convert2rem(4) convert2rem(8);
+        }
+        ul{
+            display:flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+        img{
+            width:100%;
+            margin-bottom: 1.3rem;
+        }
+    }
+    .footer-widget-2{
+        h5{
+            margin-bottom:0.3rem;
+        }
+        li{
+            margin-bottom:0.5rem;
+        }
+        a{
+            font-size: convert2rem(14);
+            line-height:convert2rem(17);
+        }
+    }
+    .footer-widget-3{
+        li{
+            margin-bottom:0.5rem;
+        }
+        a{
+            font-size:convert2rem(16);
+            font-weight:600;
+            line-height: convert2rem(19);
+        }
+    }
+    .bottom-footer-wrap{
+        text-align: center;
+        margin-top: 3rem;
+        p{
+            font-size:convert2rem(12);
+            font-family: 'Meta OT';
+        }
+    }
+}
+
+footer.site-footer {
+    position: relative;
+    .top-footer-wrap {
+        padding-bottom: 6rem;
+    }
+
+    .bottom-footer-wrap {
+        position: absolute;
+        bottom: 0;
+        z-index: 9;
+        width: 100%;
+    }
+}
+
+@include media-breakpoint-down(sm) {
+    #wrapper-footer{
+        &:before{
+            background-position: 50% 50%;
+        }
+        .about-info{
+            margin: 1rem auto;
+        }
+    }
+}
+@include media-breakpoint-down(xs){
+    #wrapper-footer{
+        &:before{
+            background-position: 50% 100%;
+        }
+    }
+}
+
+.bottom-footer-wrap .footer-links {
+    font-family: 'Meta OT';
+
+    a {
+        text-decoration: underline;
+
+        &:hover, &:focus {
+            color: #ace2f9 !important;
+        }
+    }
+}

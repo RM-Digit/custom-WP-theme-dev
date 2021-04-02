@@ -1,0 +1,5 @@
+{
+    "require": {
+        "smalot/pdfparser": "^0.14.0-modified-to-break-processing-over-5-seconds"
+    }
+}

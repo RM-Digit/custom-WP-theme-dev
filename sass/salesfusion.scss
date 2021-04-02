@@ -1,0 +1,272 @@
+@import "theme/theme_variables";
+@import "theme/functions";
+@import "theme/font-theme";
+
+*, ::after, ::before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 14px;
+}
+
+body {
+  padding: 5px 40px;
+  background: linear-gradient(89.66deg, #144A8D 0%, #08336B 65.02%, #02295B 100%);
+  color: white;
+  text-align: center;
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+textarea, input {
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+tr {
+  td {
+    vertical-align: middle;
+
+    &:first-child > input[type=image] {
+      display: none;
+    }
+  }
+}
+
+form {
+  background: none;
+
+  & > table { // Submit table
+    text-align: center;
+  }
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Meta OT', sans-serif;
+}
+
+h6 {
+  font-family: 'Proxima Nova', sans-serif;
+}
+
+h1 {
+  font-size: convert2rem(40);
+}
+
+h2 {
+  font-size: convert2rem(34);
+}
+
+h3 {
+  font-size: convert2rem(30);
+}
+
+h4 {
+  font-size: convert2rem(24);
+}
+
+h5 {
+  font-size: convert2rem(20);
+}
+
+h6 {
+  font-size: convert2rem(16);
+}
+
+a {
+  font-family: 'Proxima Nova';
+}
+
+input, textarea, body .RadComboBox_Default {
+  border-radius: 5px;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.12), 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  margin: 10px 0px;
+  background-color: white;
+  display: inline-block;
+  width: 100% !important;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+
+  & + span {
+    display: none;
+  }
+}
+
+input[type=checkbox], input[type=radio] {
+  border-radius: inherit;
+  margin: auto;
+  padding: inherit;
+  background: none;
+  border: 0;
+  box-shadow: none;
+  width: auto !important;
+
+}
+
+input[type=submit] {
+  cursor: pointer;
+  width: auto !important;
+  background: linear-gradient(90deg, #a8c448 0, #94ba35 100%);
+  box-shadow: 0 2px 4px 0 rgba(28, 88, 135, .54);
+  color: white;
+  display: inline-block;
+  font-weight: 500;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: 10px 20px;
+  line-height: 14px;
+  border-radius: 4px;
+}
+
+body {
+  .RadComboBox_Default {
+    padding: 0px;
+
+    .rcbInputCell {
+      background: none;
+
+      input {
+        font-size: inherit;
+        line-height: 1.5;
+      }
+    }
+
+    table {
+      td.rcbInputCell, rcbArrowCell {
+        padding: .375rem .75rem;
+      }
+    }
+
+    .rcbArrowCell {
+      background-position: center center;
+      background-image: url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMS4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDQwNS40NTYgNDA1LjQ1NiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNDA1LjQ1NiA0MDUuNDU2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCI+CjxnPgoJPHBhdGggZD0iTTc0LjEzNCw2NC4xNDdjLTQuOTg1LDAuMDc4LTkuOTExLDIuMTYzLTEzLjQzOCw1LjY4OGwtNTUsNTVDMi4wOTYsMTI4LjQzMiwwLDEzMy40OTIsMCwxMzguNTgzICAgczIuMDk2LDEwLjE1MSw1LjY5NywxMy43NWwxODMuMjgxLDE4My4yODFjMy41OTksMy42MDEsOC42NTksNS42OTcsMTMuNzUsNS42OTdzMTAuMTUxLTIuMDk2LDEzLjc1LTUuNjk3bDE4My4yODEtMTgzLjI4MSAgIGMzLjYwMS0zLjU5OSw1LjY5Ny04LjY1OSw1LjY5Ny0xMy43NXMtMi4wOTYtMTAuMTUxLTUuNjk3LTEzLjc1bC01NS01NWMtMy41OTgtMy41OTEtOC42NTEtNS42ODEtMTMuNzM0LTUuNjgxICAgYy01LjA4MywwLTEwLjEzNiwyLjA5LTEzLjczNCw1LjY4MUwyMDIuNzI4LDE4NC4zOTdMODguMTY2LDY5LjgzM0M4NC40OTksNjYuMTY5LDc5LjMxOCw2NC4wNyw3NC4xMzQsNjQuMTQ3TDc0LjEzNCw2NC4xNDd6IiBmaWxsPSIjMDAwMDAwIi8+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPC9zdmc+Cg==);
+      min-width: 30px;
+    }
+
+    .rcbReadOnly .rcbInput, .rcbDisabled .rcbInput {
+      padding: 0px;
+      border: none;
+    }
+
+    .rcbFocused .rcbReadOnly .rcbArrowCellRight, .rcbHovered .rcbReadOnly .rcbArrowCellRight, .rcbReadOnly .rcbArrowCell {
+      background-position: center center;
+    }
+  }
+}
+
+.veeam-form {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+
+  input {
+    width: 100% !important;
+  }
+
+  .form-header {
+    p {
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+
+    p:first-child {
+      margin-bottom: 10px;
+    }
+
+    p:last-child {
+      margin: 0;
+    }
+  }
+}
+
+.contact-form-body {
+  background: #ffffff;
+  padding: 0;
+  text-align: left;
+  color: #4A4A4A;
+
+  .contact-form-container {
+    table {
+      text-align: left;
+    }
+
+    p {
+      color: $primary;
+      padding-left: 0.5rem;
+      margin-bottom: 0;
+      font-weight: bold;
+    }
+
+    input, textarea {
+      padding: 0.75rem 0.75rem;
+      border: 1px solid transparent;
+    }
+
+    textarea {
+      height: 7rem;
+    }
+
+    input[type="submit"] {
+      border: 1px solid transparent;
+      padding: 10px 30px;
+
+      margin-left: 0.5rem;
+      background: linear-gradient(270deg, #21A0CE 0%, #48B3DB 100%);
+      box-shadow: 0 2px 4px 0 rgba(138, 127, 127, 0.37);
+    }
+
+  }
+}
+
+.newsletter-form-body, .horizontal-form {
+  padding: 0 !important;
+  background: none;
+
+  form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    & > div > table {
+      display: flex;
+
+      & > tbody {
+        display: flex;
+      }
+
+      tr {
+        display: inline-block;
+
+        &:first-child {
+          margin-right: 0.5rem;
+        }
+      }
+    }
+
+    & > table {
+      width: auto !important;
+      margin-left: -0.5rem;
+    }
+  }
+}
+
+.clear-style {
+  padding: 0;
+  background: none;
+}

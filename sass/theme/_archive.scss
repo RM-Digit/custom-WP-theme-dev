@@ -1,0 +1,28 @@
+#archive-wrapper{
+    .archive-header{
+        color:#144A8D;
+        font-weight: bold;
+        text-align: left;
+    }
+}
+@include media-breakpoint-down(sm) {
+    #archive-wrapper{
+        .page-header{
+            text-align: right;
+            .selected{
+                display: none;
+            }
+        }
+    }
+}
+
+.card{
+    width: 49% !important;
+    @include media-breakpoint-down(md){
+        width: 100% !important;
+    }
+}
+.card-full {
+    .card{
+        width: 100% !important;}
+}

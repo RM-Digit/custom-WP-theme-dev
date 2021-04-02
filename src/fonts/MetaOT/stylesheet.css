@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'MetaOT-BoldIta';
+    src: url('MetaOT-BoldIta.eot');
+    src: url('MetaOT-BoldIta.eot?#iefix') format('embedded-opentype'),
+        url('MetaOT-BoldIta.woff2') format('woff2'),
+        url('MetaOT-BoldIta.woff') format('woff'),
+        url('MetaOT-BoldIta.ttf') format('truetype'),
+        url('MetaOT-BoldIta.svg#MetaOT-BoldIta') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MetaOT-BookIta';
+    src: url('MetaOT-BookIta.eot');
+    src: url('MetaOT-BookIta.eot?#iefix') format('embedded-opentype'),
+        url('MetaOT-BookIta.woff2') format('woff2'),
+        url('MetaOT-BookIta.woff') format('woff'),
+        url('MetaOT-BookIta.ttf') format('truetype'),
+        url('MetaOT-BookIta.svg#MetaOT-BookIta') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MetaOT';
+    src: url('MetaOT-Bold.eot');
+    src: url('MetaOT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MetaOT-Bold.woff2') format('woff2'),
+        url('MetaOT-Bold.woff') format('woff'),
+        url('MetaOT-Bold.ttf') format('truetype'),
+        url('MetaOT-Bold.svg#MetaOT-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MetaOT-Medi';
+    src: url('MetaOT-Medi.eot');
+    src: url('MetaOT-Medi.eot?#iefix') format('embedded-opentype'),
+        url('MetaOT-Medi.woff2') format('woff2'),
+        url('MetaOT-Medi.woff') format('woff'),
+        url('MetaOT-Medi.ttf') format('truetype'),
+        url('MetaOT-Medi.svg#MetaOT-Medi') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MetaOT-Norm';
+    src: url('MetaOT-Norm.eot');
+    src: url('MetaOT-Norm.eot?#iefix') format('embedded-opentype'),
+        url('MetaOT-Norm.woff2') format('woff2'),
+        url('MetaOT-Norm.woff') format('woff'),
+        url('MetaOT-Norm.ttf') format('truetype'),
+        url('MetaOT-Norm.svg#MetaOT-Norm') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MetaOT-Book';
+    src: url('MetaOT-Book.eot');
+    src: url('MetaOT-Book.eot?#iefix') format('embedded-opentype'),
+        url('MetaOT-Book.woff2') format('woff2'),
+        url('MetaOT-Book.woff') format('woff'),
+        url('MetaOT-Book.ttf') format('truetype'),
+        url('MetaOT-Book.svg#MetaOT-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MetaOT-MediIta';
+    src: url('MetaOT-MediIta.eot');
+    src: url('MetaOT-MediIta.eot?#iefix') format('embedded-opentype'),
+        url('MetaOT-MediIta.woff2') format('woff2'),
+        url('MetaOT-MediIta.woff') format('woff'),
+        url('MetaOT-MediIta.ttf') format('truetype'),
+        url('MetaOT-MediIta.svg#MetaOT-MediIta') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+

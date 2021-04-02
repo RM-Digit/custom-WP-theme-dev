@@ -1,0 +1,173 @@
+@import "theme/theme_variables";
+@import "theme/fSelect";
+@import "theme/quest-font";
+@import "theme/jquery-ui";
+@import "theme/jquery-ui.theme";
+@import "assets/font-awesome"; // <------- Font Awesome Icon font
+
+$grid-gutter-width: 20px;
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: ($grid-gutter-width / -2);
+  margin-left: ($grid-gutter-width / -2);
+}
+
+.col-6 {
+  position: relative;
+  width: 100%;
+  min-height: 1px; // Prevent columns from collapsing when empty
+  padding-right: ($grid-gutter-width / 2);
+  padding-left: ($grid-gutter-width / 2);
+  box-sizing: border-box;
+}
+//#quest-post-tiny-body .fs-wrap{
+//  background-color: #ffff;
+//  position: absolute;
+//  z-index: 9;
+//  border: 1px solid;
+//}
+
+#quest-post-tiny-body {
+  .fs-label-wrap, .fs-dropdown {
+    border: 1px solid #ccc;
+    width: 100%;
+  }
+
+  .fs-search {
+    border-bottom: 1px solid #ccc;
+  }
+
+  .fs-dropdown {
+    background-color: #fff;
+    position: absolute;
+
+    .fs-option {
+      &:hover {
+        background-color: #007fff;
+        .fs-option-label {
+          color: #fff;
+
+          i {
+            color: #fff;
+          }
+        }
+      }
+    }
+  }
+}
+
+.col-6 {
+  flex: 0 0 percentage(6/12);
+  max-width: percentage(6/12);
+}
+
+.resource-preview {
+  .resource-group {
+    cursor: move;
+    label {
+      font-weight: bold;
+      margin-bottom: 6px;
+      display: block;
+      cursor: pointer;
+      &::before {
+        border-left: .4em solid transparent;
+        border-bottom: 0;
+        border-right: 0.4em solid transparent;
+        border-top: .4em solid;
+        content: " ";
+        display: block;
+        float: right;
+        margin-top: 2px;
+      }
+
+    }
+    &.collapsed {
+      label::before {
+        border-left: .4em solid;
+        border-bottom: .4em solid transparent;
+        border-right: 0;
+        border-top: .4em solid transparent;
+        margin-right: 2px;
+      }
+      ul {
+        display: none;
+      }
+    }
+  }
+  .resource-group-highlight, .resource-item-highlight {
+    border: 1px dashed #0085ba;
+    background-color: lightyellow;
+    display: block;
+    height: 3em;
+    box-sizing: border-box;
+  }
+  .resource-item-highlight {
+    background-color: lightgrey;
+    height: 1.4em;
+  }
+}
+
+.media-modal {
+  z-index: 99999999 !important;
+}
+
+.quest-media-shortcode {
+  .screenshot {
+    text-align: center;
+    img {
+      width: 80% !important;
+      max-height: 150px;
+    }
+  }
+}
+.thumbnail-pdf-preview {
+  width: 120px;
+  box-shadow: inset 0 0 15px rgba(0,0,0,.1), inset 0 0 0 1px rgba(0,0,0,.05);
+  background: #eee;
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 1rem;margin-right: 1rem;
+  i {
+    font-size: 5rem;
+  }
+  label {
+    display: block;
+    height: 2.7em;
+    overflow: hidden;
+    word-break: break-all;
+    padding-top: 0.5rem;
+  }
+}
+.resource-del-pdf {
+  width: 140px;
+  text-align: center;
+}
+#quest_settings{
+    .checkbox_multi{
+        text-transform: capitalize;
+    }
+}
+.mce-container .fa {
+  font-family: FontAwesome;
+}
+#quest-post-tiny-body .g0, #quest-post-tiny-body .fs-search{
+  padding: 6px 22px 6px 8px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.siteorigin-widget-form .siteorigin-widget-field .sow-multi-measurement-container .sow-multi-measurement-input-container > label {
+  display: block;
+}
+
+#quest-customer-portrait {
+  .screenshot {
+    img {
+      width: 80% !important;
+    }
+  }
+}

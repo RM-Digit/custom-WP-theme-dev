@@ -1,0 +1,28 @@
+// Use this file to overwrite the basic Bootstrap variables and add your own variables
+// To overwrite a Bootstrap variable you don´t have to touch the Bootstrap folder.
+// Just copy a variable from src/sass/bootstrap4/_variables.scss, paste it here and edit the value.
+
+
+$primary: #144A8D;
+$secondary: #007ACC; // #20799D
+$success: #007ACC; // #687B28
+$gray: #E2E7EE;
+$grid-gutter-width-mobile: 4rem;
+$theme-font-path: "../fonts" !default;
+$theme-img-path: "../img" !default;
+$font-family-sans-serif:      "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$navbar-light-color: $primary;
+$navbar-light-active-color: $secondary;
+$navbar-light-hover-color: $secondary;
+$nav-link-padding-y: 0.25rem;
+
+$btn-padding-y : 10px;
+$btn-padding-x : 20px;
+$btn-line-height: 14px;
+$btn-border-radius : 4px;
+$btn-font-weight: 500;
+$card-border-radius:0;
+/*
+.rectangle-10-20 {	height: 34px;	width: 119px;	border-radius: 4px;	background: linear-gradient(270deg, #21A0CE 0%, #48B3DB 100%);	box-shadow: 0 2px 4px 0 rgba(16,64,101,0.57);}
+
+height: 14px;	width: 79px;	color: #FFFFFF;	font-family: "Proxima Nova";	font-size: 16px;	font-weight: 500;	line-height: 14px;	text-align: center;*/

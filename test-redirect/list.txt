@@ -1,0 +1,337 @@
+/about.aspx	/about/	OK
+/application-development.aspx	/services/professional-services/application-development/	OK	/solution-brief/application-development/
+/application-development/sql-support.aspx	/services/professional-services/application-development/	OK
+/application-security/	/category/application-security-scan/	FAILED	/ceo-blog/application-security-as-apps-proliferate-so-do-vulnerabilities/
+/assessment/co-location-services/	/services/co-location-facilities/	OK
+/business-resumption.aspx	/business-resumption/	OK	/services/disaster-recovery/business-resumption/
+/Case_for_O365_Backup.aspx	/registration-form-the-case-for-office-365-backup/	OK
+/certifications.aspx	/certifications-recognition/	OK
+/cloud-computing-solutions.aspx	/cloud-services/	OK	/services/managed-it-cloud/cloud-services/
+/cloud-computing-solutions/	/cloud-services/	OK	/services/managed-it-cloud/cloud-services/
+/cloud-computing-solutions/cloud-computing-virtualization.aspx	/cloud-services/	OK	/services/managed-it-cloud/cloud-services/
+/cloud-computing-solutions/hybrid-cloud-computing.aspx	/cloud-services/	OK	/services/managed-it-cloud/cloud-services/
+/CloudOps.aspx	/cloud-services/	OK	/services/managed-it-cloud/cloud-services/
+/co-location_services-infographic.aspx	/services/co-location-facilities/	OK
+/co-location_services.aspx	/services/co-location-facilities/	OK	/services/co-location-facilities/
+/contact.aspx	/contact/	OK
+/contract-management-infographic.aspx	/solution-brief/maintenance-contract-management/	OK
+/contract-management-services.aspx	/solution-brief/maintenance-contract-management/	OK
+/data-center-expansion.aspx	/data-center-services-in-sacramento-ca/	OK
+/data-center-services.aspx	/services/co-location-facilities/	OK
+/data-center-services.aspx/assessments.aspx	/services/co-location-facilities/	OK
+/data-center-services.aspx/cloudAssessment	/services/co-location-facilities/	OK	/cloudassessment/
+/data-center-services.aspx/DRfortheDay	/services/co-location-facilities/	OK
+/data-center-services.aspx/nocMap.aspx	/services/co-location-facilities/	OK
+/data-center-services.aspx/technologyCenterVideo.aspx	/services/co-location-facilities/	OK
+/data-center-services.aspx/virtualDesktops.aspx	/services/co-location-facilities/	OK
+/data-center-services/network-operations-center.aspx	/services/co-location-facilities/	OK
+/data-center-services/roseville-ca.aspx	/quest-data-center-services-in-roseville-ca/	OK
+/data-center-services/sacramento-ca.aspx	/data-center-services-in-sacramento-ca/	OK
+/data-circuits-provider.aspx	/data-and-voice-circuits/	OK	/services/managed-it-cloud/data-and-voice-circuits/
+/data-circuits-provider.aspx/assessments.aspx	/data-and-voice-circuits/	OK	/solution-brief/data-and-voice-circuits/
+/data-circuits-provider.aspx/cabling_video.aspx	/data-and-voice-circuits/	OK	/solution-brief/data-and-voice-circuits/
+/data-circuits-provider.aspx/cloudAssessment	/data-and-voice-circuits/	OK	/cloudassessment/
+/data-circuits-provider.aspx/DRfortheDay	/data-and-voice-circuits/	OK	/solution-brief/data-and-voice-circuits/
+/data-circuits-provider.aspx/StopMalware.aspx	/data-and-voice-circuits/	OK	/solution-brief/data-and-voice-circuits/
+/data-circuits-provider.aspx/virtualDesktops.aspx	/data-and-voice-circuits/	OK	/services/managed-it-cloud/data-and-voice-circuits/
+/data-loss-prevention.aspx	/services/cybersecurity/data-loss-prevention-dlp/	OK	/solution-brief/data-loss-prevention-dlp/
+/data-loss-prevention/creating-a-dlp-strategy.aspx	/services/cybersecurity/data-loss-prevention-dlp/	OK
+/data-loss-prevention/identify-data.aspx	/services/cybersecurity/data-loss-prevention-dlp/	OK
+/Data-Protection-Multi-Cloud-Enterprise.aspx	/Data-Protection-Multi-Cloud-Enterprise/	OK
+/data-recovery-review.aspx	/assessments/backup-and-data-recovery-review/	OK
+/data-security.aspx	/services/cybersecurity/data-security/	OK
+/data-security.aspx/brcVideo.aspx	/services/cybersecurity/data-security/	OK
+/data-theft-and-security.aspx	/video/data-security/	OK
+/Default.aspx	/	OK
+/default.aspx	/	OK
+/disaster_recovery_veeam_cloud.aspx	/quest-disaster-recovery-using-veeam-cloud-connect/	OK
+/disaster-recovery-services.aspx	/service/disaster-recovery/	OK	/services/disaster-recovery/
+/disaster-recovery-services.aspx/assessments.aspx	/assessments/disaster-recovery/	OK
+/DRaaS_for_Dummies.aspx	/registration-form-draas-for-dummies-free-ebook/	OK
+/faq.aspx	/faqs/	OK
+/financial-it-services.aspx	/service/financial/	OK	/industries/financial/
+/government-it-solutions.aspx	/industries/government/	OK	/government__trashed/
+/government-it-solutions/aerospace-defense.aspx	/industries/government/	OK
+/government-it-solutions/government-cloud.aspx	/industries/government/	OK
+/government-it-solutions/mobile-device-management.aspx	/industries/government/	OK
+/government-it-solutions/unified-communications.aspx	/industries/government/	OK
+/pr_2015-cisco-Architecture-Specialization.aspx	/press-release/	OK
+/pr_2015-cisco-Security-Architecture.aspx	/press-release/	OK
+/pr_2015-cisco-Video-Specialization.aspx	/press-release/	OK
+/pr_2015-CRN-award.aspx	/press-release/	OK
+/pr_2015-Quest-Named-CRN-2015-Fast-Growth-150-List.aspx	/press-release/	OK
+/pr_2015Cisco.aspx	/press-release/	OK
+/pr_2015CiscoInfrastructure.aspx	/press-release/	OK
+/pr_2015CiscoPartnerSummit.aspx	/press-release/	OK
+/pr_2015CRN250.aspx	/press-release/	OK
+/pr_2015CRNsp500.aspx	/press-release/	OK
+/pr_2015MSgoldHosting.aspx	/press-release/	OK
+/pr_2015mspelite150.aspx	/press-release/	OK
+/pr_2015msprovider.aspx	/press-release/	OK
+/pr_2016-cisco-Advanced-Data-Center-Architecture-Specialization.aspx	/press-release/	OK
+/pr_2016-CRN-MSP-500-Tech-Elite.aspx	/press-release/	OK
+/pr_2016-CRN-Tech-Elite-Solution-Providers.aspx	/press-release/	OK
+/pr_2016-Quest-Achieves-Advanced-Collaboration-Architecture-Specialization.aspx	/press-release/	OK
+/pr_2016-Quest-Achieves-Advanced-Video-Specialization.aspx	/press-release/	OK
+/pr_2016-Quest-Achieves-Cisco%20Gold-Certification-2.aspx	/press-release/	OK
+/pr_2016-Quest-Achieves-Cisco-Gold-Certification.aspx	/press-release/	OK
+/pr_2016-Quest-Achieves-Platinum-Status-Veeam-Cloud-Service-Provider.aspx	/press-release/	OK
+/pr_2016-Quest-Achieves-Security-Architecture-Specialization.aspx	/press-release/	OK
+/pr_2016-Quest-Certified-Cisco-Powered-Cloud-and-Managed-Services.aspx	/press-release/	OK
+/pr_2016-Quest-Master-Designation-Cloud-and-Managed-Services.aspx	/press-release/	OK
+/pr_2016-Quest-Named-CRN-2016-Fast-Growth-150.aspx	/press-release/	OK
+/pr_2016-Quest-Named-CRN-2016-Solution-Provider.aspx	/press-release/	OK
+/pr_2016-Quest-Named-CRN-Triple-Crown-Award-Winner.aspx	/press-release/	OK
+/pr_2017-11-Quest-Achieves-Advanced-Collaboration-Architecture-Specialization-from-Cisco.aspx	/press-release/quest-achieves-advanced-collaboration-architecture-specialization-from-cisco/	OK
+/pr_2017-11-Quest-Technology-Management-Achieves-Advanced-Video-Specialization-from-Cisco.aspx	/press-release/quest-technology-management-achieves-advanced-video-specialization-from-cisco/	OK
+/pr_2017-Quest-Achieves-Cisco-Gold-Certification.aspx	/press-release/quest-achieves-cisco-gold-certification-3/	OK
+/pr_2017-Quest-Achieves-Recognized-Excellence-Managed-IT-Services.aspx	/press-release/quest-technology-management-recognized-for-excellence-in-managed-it-services/	OK
+/pr_2017-Quest-Achieves-the-Advanced-Unified-Computing-Technology-Specialization-from-Cisco.aspx	/press-release/quest-achieves-the-advanced-unified-computing-technology-specialization-from-cisco/	OK
+/pr_2017-Quest-Named-One-Tech-Elite-Solution-Providers-CRN.aspx	/press-release/quest-technology-management-named-one-of-2017-tech-elite-solution-providers-by-crn/	OK
+/pr_2017-Quest-Renews-Master-Designation-to-Provide-Cisco-Powered-Cloud-and-Managed-Services.aspx	/press-release/quest-certified-cisco-powered-cloud-and-managed-services/	OK
+/pr_2017-Quest-Technology-Management-Achieves-Advanced-Security-Architecture-Specialization.aspx	/press-release/quest-technology-management-achieves-advanced-security-architecture-specialization-from-cisco-usa/	OK
+/pr_2017-Quest-Technology-Management-Achieves-Data-Center-Architecture-Specialization-from-Cisco.aspx	/press-release/quest-technology-management-achieves-advanced-data-center-architecture-specialization-from-cisco-usa/	OK
+/pr_2017-Quest-Technology-Management-Named-to-CRN-2017-Solution-Provider-500%20List.aspx	/press-release/quest-technology-management-named-to-crns-2017-solution-provider-500-list/	OK
+/pr_2018-01-Quest-Achieves-Cisco-Advanced-Enterprise-Networks-Architecture-Specialization.aspx	/press-release/quest-achieves-advanced-collaboration-architecture-specialization/	OK
+/pr_2018-02-Quest-Recognized-for-Excellence-in-Managed-IT-Services.aspx	/press-release/quest-recognized-for-excellence-in-managed-it-services/	OK
+/pr_2018-03-Quest-Named-One-of-2018-Tech-Elite-Solution-Providers-by-CRN.aspx	/press-release/quest-named-one-of-2018-tech-elite-solution-providers-by-crn/	OK
+/pr_2018-06-Quest-Named-CRN-2018-Solution-Provider-500-List.aspx	/press-release/quest-named-to-crns-2018-solution-provider-500-list/	OK
+/pr_2018-09-Quest-Achieves-Advanced-Security-Architecture-Specialization-from-Cisco.aspx	/press-release/quest-achieves-advanced-security-architecture-specialization-from-cisco/	OK
+/pr_2018-12-Quest-Achieves-Advanced-Collaboration-Architecture-Specialization-from-Cisco.aspx	/press-release/quest-achieves-advanced-collaboration-architecture-specialization/	OK
+/pr_2019-01-22-Quest-Achieves-Advanced-Enterprise-Networks-Architecture-Specialization-from-Cisco.aspx	/press-release/quest-achieves-advanced-enterprise-networks-architecture-specialization-from-cisco/	OK
+/pr_2019-01-30-Quest-Achieves-Cisco-Gold-Certification.aspx	/press-release/quest-achieves-cisco-gold-certification-4/	OK
+/pr_2019-01-30-Quest-Renews-Master-Designation-Provide-Cisco-Powered-Cloud-Managed-Services.aspx	/press-release/quest-renews-master-designation-to-provide-cisco-powered-cloud-and-managed-services/	OK
+/pr_2019-01-Quest-Achieves-Veeam-Accredited-Service-Partner-Designation.aspx	/press-release/quest-achieves-veeam-accredited-service-partner-designation-helping-clients-with-deployment-and-implementation-of-veeam-solutions/	OK
+/pr_2019-02-19-Quest-Recognized-for-Excellence-in-Managed-IT-Services.aspx	/press-release/quest-recognized-for-excellence-in-managed-it-services-2/	OK
+/pr_3crown.aspx	/press-release/	OK
+/pr_ciscoMasterServiceProvider.aspx	/press-release/	OK
+/pr_CRN13TechElite.aspx	/press-release/	OK
+/pr_Quest-Achieves-Cisco-Advanced-Content-Security-Specialization-2014.aspx	/press-release/quest-achieves-security-architecture-specialization/	OK
+/video-conferencing/	/audio-visual-and-video-conferencing/	OK
+/video/business-continuity-planning-and-disaster/	/video/business-continuity-planning-and-disaster-recovery/	OK
+/video/business-resumption__trashed/	/video/business-continuity-planning-and-disaster-recovery/	OK
+/video/business-resumption/	/video/business-continuity-planning-and-disaster-recovery/	OK
+/assessment-services.aspx	/assessments/ 	OK
+/calstar-customer-story.aspx	/video/calstar-powered-by-quest/	OK
+/cloud-assessment/	/wp-content/uploads/2018/11/Cloud-Workshop.pdf	OK
+/cloud-computing-solutions/cloud-based-disaster-recovery.aspx	/services/disaster-recovery/	OK
+/data-replication-video.aspx	/data-recovery-backup-and-storage/	OK	/services/disaster-recovery/data-recovery-backup-and-storage/
+/database-health.aspx	/video/database-health-check/	OK
+/desktops-as-a-service.aspx	/daas/	OK	/daas/
+/desktops-as-a-service/advantages-of-daas.aspx	/wp-content/uploads/2019/01/DaaS.pdf	OK
+/desktops-as-a-service/what-is-daas.aspx	/wp-content/uploads/2019/01/DaaS.pdf	OK
+/directionalboring.aspx	/services/it-infrastructure/	OK
+/disaster-recovery-and-business-continuity-video.aspx	/video/business-continuity-planning-and-disaster-recovery/	OK
+/disaster-recovery-services.aspx/cloudAssessment	/service/disaster-recovery/	OK	/cloudassessment/
+/disaster-recovery-services.aspx/drDayVideo.aspx	/video/disaster-recovery-workshop/	OK
+/disaster-recovery-services/business-continuity-workshop.aspx	/assessment/business-continuity-workshop/	OK	/assessment/business-continuity-workshop/
+/disaster-recovery-services/disaster-recovery-workshop-video.aspx	/video/disaster-recovery-workshop/	OK
+/ePlaybook/	/	OK
+/ePlaybook/index.html	/	OK
+/fiber-optic-internet.aspx	/services/it-infrastructure/cabling-and-fiber-optic/	OK
+/fiber-optic/	/services/it-infrastructure/cabling-and-fiber-optic/	OK
+/fiber-splicing.aspx	/services/it-infrastructure/cabling-and-fiber-optic/	OK
+/file-sharing.aspx	/services/managed-it-cloud/	OK
+/fileSharing.aspx	/resources/?resources%5B%5D=assessment	OK	/resources/
+/firewall-assessment-video.aspx	/resources/?resources%5B%5D=video	OK	/resources/
+/firewall-review.aspx	/resources/?resources%5B%5D=assessment	OK	/resources/
+/fremontbank_study.aspx	/customer-stories/	OK
+/goldstar/	/	OK
+/helpDesk.aspx	/services/managed-it-cloud/	OK
+/Horizon-Daas.aspx	/wp-content/uploads/2019/01/DaaS.pdf	OK
+/IaaS/	/services/it-infrastructure/infrastructure-equipment/	OK	/services/it-infrastructure/infrastructure-equipment/
+/infrastructure-video.aspx	/services/it-infrastructure/	OK
+/infrastructure.aspx	/services/it-infrastructure/	OK
+/leads/Default.aspx	/	OK
+/leads/leadForm.aspx	/partner-opportunity-registration/	OK
+/leads/leadForm.aspx/	/partner-opportunity-registration/	OK
+/leads/leadForm.aspx/Account/login.aspx	/partner-opportunity-registration/	OK
+/leads/leadForm.aspx/account/login.aspx	/partner-opportunity-registration/	OK
+/leads/leadForm.aspx/default.aspx	/partner-opportunity-registration/	OK
+/leads/leadForm.aspx/qmsPtrPortal/Account/login.aspx	/partner-opportunity-registration/	OK
+/Leads/thanksLeads.aspx	/thank-you/opportunity-register/	OK
+/Login.aspx	/partner-opportunity-registration/	OK
+/login.aspx?ReturnUrl=/Download/Download.aspx	/partner-opportunity-registration/	OK
+/managed-services.aspx	/services/managed-it-cloud/	OK
+/managed-services/data-backup-services.aspx	/services/managed-it-cloud/	OK
+/managed-services/email-migration.aspx	/services/professional-services/email-migration-and-support-services/	OK
+/managed-services/managed-applications.aspx	/services/managed-it-cloud/	OK
+/managed-services/managed-messaging-services.aspx	/services/managed-it-cloud/	OK
+/managed-services/managed-network-monitoring.aspx	/services/managed-it-cloud/	OK	/services/managed-it-cloud/network-performance-and-monitoring-and-maintenance/
+/managed-services/managed-security-services.aspx	/services/managed-it-cloud/	OK	/services/cybersecurity/
+/managed-services/network-management.aspx	/services/managed-it-cloud/	OK	/services/managed-it-cloud/network-management/
+/managed-services/system-monitoring.aspx	/services/managed-it-cloud/	OK
+/media_methods.aspx	/resources/	OK
+/media.aspx	/resources/	OK
+/partner-opportunity-registration/	/partner-opportunity-registration/	SAME
+/playbook/partners.html	/Partners/	OK
+/pr_beachhead.aspx	/press-release/	OK
+/pr_BusinessResumptionCenter.aspx	/press-release/	OK
+/pr_c7Coloaspx.aspx	/press-release/	OK
+/pr_cable_cmas.aspx	/press-release/	OK
+/pr_ciscoATP2011.aspx	/press-release/	OK
+/pr_ciscoCloud.aspx	/press-release/	OK
+/pr_CiscoCustSat.aspx	/press-release/	OK
+/pr_CRNFastGrowth2013.aspx	/press-release/	OK
+/pr_DaaSDesktone.aspx	/press-release/	OK
+/pr_e_security.aspx	/press-release/	OK
+/pr_gorillaAward.aspx	/press-release/	OK
+/pr_gsChannelPartnersBoard.aspx	/press-release/	OK
+/pr_MakeAWish2010.aspx	/press-release/	OK
+/pr_no_nevada.aspx	/press-release/	OK
+/pr_passlogix.aspx	/press-release/	OK
+/pr_procera.aspx	/press-release/	OK
+/pr_procera2.aspx	/press-release/	OK
+/pr_ptrReadyDaaS.aspx	/press-release/	OK
+/pr_questCatalog.aspx	/press-release/	OK
+/pr_questCitrixCollaboration.aspx	/press-release/	OK
+/pr_questEgnyte.aspx	/press-release/	OK
+/pr_QuestIntellitactics.aspx	/press-release/	OK
+/pr_replication_Services.aspx	/press-release/	OK
+/pr_sacbizjournal.aspx	/press-release/	OK
+/pr_smart100.aspx	/press-release/	OK
+/pr_staffing.aspx	/press-release/	OK
+/pr_ticket2future01.aspx	/press-release/	OK
+/pr_Top100CloudProvider.aspx	/press-release/	OK
+/pr_university_reno.aspx	/press-release/	OK
+/pr_var2002.aspx	/press-release/	OK
+/pr_var500_07.aspx	/press-release/	OK
+/pr_vsp.aspx	/press-release/	OK
+/pr_WalkNRock2010.aspx	/press-release/	OK
+/pressreleases.aspx	/resources/?resources%5B%5D=press-release	OK	/resources/
+/pressReleases.aspx	/resources/?resources%5B%5D=press-release	OK	/resources/
+/professional-services.aspx	/services/professional-services/	OK
+/professional-services/email-archiving.aspx	/services/professional-services/	OK
+/professional-services/project-management.aspx	/services/professional-services/project-management/	OK
+/quest_veeam_p2w.aspx	/quest_veeam_p2w/	OK
+/quest_veeam_p2w/	/quest_veeam_p2w/	SAME
+/quest_veeam_p2w/video.aspx	/quest-baas-draas-using-veeam-cloud-connect-video/	OK
+/quest-smart-net-services.aspx	/video/quest-cisco-smart-net-contract-management/	OK
+/qumunity.aspx	/quest-in-the-community/	OK
+/registration-form-draas-for-dummies-free-ebook/	/registration-form-draas-for-dummies-free-ebook/	SAME
+/registration-form-quest-veeam-ransomware/	/registration-form-quest-veeam-ransomware/	SAME
+/registration-form-the-case-for-office-365-backup/	/registration-form-the-case-for-office-365-backup/	SAME
+/SANpreference.aspx	/subscription-preferences/	OK
+/security-workshop-video.aspx	/video/security-workshop/	OK
+/server-end-of-life.aspx	/services/professional-services/	OK
+/SnapMirror/	/vendor/	OK
+/solution-brief/cloud-computing-solutions/	/cloud-services/	OK	/services/managed-it-cloud/cloud-services/
+/solution-brief/co-location-facilities/	/wp-content/uploads/2018/11/Co-location-Services.pdf	OK
+/solution-brief/daas/PastedGraphic-1/	/	OK
+/solution-brief/draas-and-baas/draas-and-baas-quest/	/wp-content/uploads/2018/11/DRaaS-and-BaaS-Quest.pdf	OK	URL exists
+/solution-brief/fiber-optic/	/cabling-and-fiber-optic/	OK	/services/it-infrastructure/cabling-and-fiber-optic/
+/solution-brief/infrastrure-as-a-service-iaas/	/wp-content/uploads/2019/01/Infrastrure-as-a-Service-IaaS.pdf	OK
+/solution-brief/network-management/	/network-management/	OK	/services/managed-it-cloud/network-management/
+/solution-brief/network-performance-and-monitoring-and-maintenance/	/network-performance-and-monitoring-and-maintenance/	OK	/services/managed-it-cloud/network-performance-and-monitoring-and-maintenance/
+/solution-brief/voip/	/	OK
+/solution-brief/wireless-design-and-implementation/	/wireless-design-and-implementation/	OK	/services/it-infrastructure/wireless-design-and-implementation/
+/solutions.aspx	/industries/	OK
+/strategic-advisor.aspx	/resources/?resources%5B%5D=newsletter	OK	/resources/
+/subscription-preferences/	/subscription-preferences/	SAME
+/tag/business-continuity-disaster-recovery/	/	OK
+/tag/cloud-computing/	/	OK
+/tag/cloud/	/	OK
+/tag/disaster-recovery/	/	OK
+/tag/it-focused-staffing-service/	/	OK
+/tag/nfv/	/	OK
+/tag/quest/	/	OK
+/tag/sql-injection/	/	OK
+/techbriefingandmoviepremier_reg_thank_you.aspx	/	OK
+/techbriefingandmoviepremier_reg.aspx	/	OK	/quest-event/join-quest-cisco-systems-and-veeam-for-a-technology-briefing-and-the-mortal-engines-movie-premier__trashed/
+/technology-center-video.aspx	/video/service-delivery-center/	OK
+/TechnologyPartners/programOverview.aspx	/Partners/	OK
+/telecom-audit-infographic.aspx	/wp-content/uploads/2018/11/Telecom.pdf	OK
+/telecom-audit.aspx	/video/quest-telecom-audit/	OK
+/thoughtLeader.aspx	/resources/?resources%5B%5D=ceo-blog	OK	/resources/
+/user/QuesTechUSA	/	OK
+/user/QuesTechUSA/videos	/	OK
+/who-we-are.aspx	/about/	OK
+/application-development/	/services/professional-services/application-development/	OK	This is existing on new website
+/backup_veeam_cloud.aspx	/quest-backup-using-veeam-cloud-connect/	OK
+/commercial-it-services.aspx	/service/commercial/	OK	/industries/commercial/
+/customer-story/redwood-credit-union-disaster-recover-wildfires/	/customer-story/Business-Resumption-Services-for-Financial-Institution-Facing-Wildfire/	OK
+/disaster-recovery-services.aspx/DRfortheDay	/wp-content/uploads/2018/11/BusinessContinuityWorkshop.pdf	OK
+/disaster-recovery-services.aspx/virtualDesktops.aspx	/video/disaster-recovery-workshop/	OK
+/disaster-recovery-services/data-center-services-map.aspx	/service/disaster-recovery/	OK	/resources/
+/disaster-recovery-services/disaster-recovery-infographic.aspx	/service/disaster-recovery/	OK	/resources/
+/disaster-recovery-services/disaster-recovery-plan.aspx	/service/disaster-recovery/	OK	/resources/
+/disaster-recovery-services/incident-response-team.aspx	/service/disaster-recovery/	OK	/services/cybersecurity/incident-response/
+/disaster-recovery-workshop/	/assessments/disaster-recovery/	OK	/video/disaster-recovery-workshop/
+/draas/	/services/disaster-recovery/disaster-recovery-and-business-continuity/	OK	/solution-brief/draas-and-baas/
+/events.aspx	/about/	OK
+/healthcare-interpreter.aspx	/industries/healthcare/	OK
+/healthcare-it-solutions.aspx	/industries/healthcare/	OK
+/high-availability-business-center-video.aspx	/wp-content/uploads/2019/01/DaaS.pdf	OK
+/ip-video-surveillance-and-access-control/	/ip-video-surveillance-and-access-control/	SAME
+/ip-video-surveillance.aspx	/ip-video-surveillance-and-access-control/	OK	/services/it-infrastructure/ip-video-surveillance-and-access-control/
+/ip-video-surveillance/	/ip-video-surveillance-and-access-control/	OK	/services/it-infrastructure/ip-video-surveillance-and-access-control/
+/it-staffing-company.aspx	/it-professional-services/	OK	/services/professional-services/staffing-and-recruiting/
+/it-staffing-company/it-staffing-company-faq.aspx	/it-professional-services/	OK	/services/professional-services/it-professional-services/
+/it-staffing-company/staff-screening-and-augmentation.aspx	/it-professional-services/	OK	/services/professional-services/it-professional-services/
+/it-staffing-company/technical-competencies.aspx	/it-professional-services/	OK	/services/professional-services/it-professional-services/
+/it-talent-showcase.aspx	/it-professional-services/	OK	/services/professional-services/it-professional-services/
+/it-training-courses.aspx	/it-professional-services/	OK	/services/professional-services/it-professional-services/
+/jobs.aspx	/careers/	OK
+/naspo-fulfillment-partners.aspx	/partner-opportunity-registration/	OK
+/naspo-valuepoint-supplier-partner/	/naspo-valuepoint-supplier-partner/	SAME
+/naspo-valuepoint.aspx	/naspo-valuepoint-supplier-partner/	OK
+/network-assessment/	/assessment/network-health-infrastructure-check/	OK	/assessments/network-health-infrastructure-check/
+/physical-security-assessment.aspx	/assessment/physical-security-assessment/	OK
+/privacy.aspx	/privacy-policy/	OK	/privacy-policy/
+/project-management/	/services/professional-services/project-management/	OK
+/quest-baas-and-draas-using-veeam/	/video/quest-cisco-smart-net-contract-management/	OK	URL existing on new site
+/quest-baas-draas-using-veeam-cloud-connect-video/	/quest-baas-draas-using-veeam-cloud-connect-video/	SAME
+/quest-baas-draas-using-veeam-cloud-connect/	/quest-baas-and-draas-using-veeam/	OK	/quest-baas-draas-using-veeam-cloud-connect-video/
+/quest-veeam-solutions/	/solution-brief/draas-and-baas-veeam/	OK	URL existing on new site
+/QuestFlex.aspx	/solution-brief/questflex/	OK
+/questflex.aspx	/solution-brief/questflex/	OK
+/risk-management/	/assessments/risk-management-workshop/	OK	/solution-brief/risk-management-and-disaster-recovery/
+/risk-management/risk-management-quiz.aspx	/assessments/risk-management-workshop/	OK
+/risk-management/risk-management-services.aspx	/assessments/risk-management-workshop/	OK
+/security-awareness-compliance/	/services/cybersecurity/security-awareness-and-compliance/	OK
+/security-incident-response/	/security-incident-response/	SAME
+/security-policy.aspx	/assessment/security-policy-workshop/	OK
+/security-workshop/	/assessment/security-policy-workshop/	OK	/assessments/security-workshop/
+/service/it-infrastructure/	/wp-content/uploads/2018/11/Co-location-Services.pdf	OK	/resources/?services%5B%5D=it-infrastructure Existing on new website
+/services.aspx	/services/	OK
+/shape-your-own-cloud.aspx	/video/shape-your-own-cloud-service-level-agreement/	OK
+/shi.aspx	/shi/	OK
+/solution-brief/cybersecurity/	/solution-brief/cyberdefense-suite/	OK
+/solution-brief/incident-response/	/wp-content/uploads/2019/01/Infrastrure-as-a-Service-IaaS.pdf	OK	/solution-brief/incident-response-team/
+/solution-brief/it-professional-services/	/network-performance-and-monitoring-and-maintenance/	OK	/services/managed-it-cloud/network-performance-and-monitoring-and-maintenance/
+/solution-brief/staffing-and-recruiting/	/solution-brief/technical-staffing/	OK
+/staffing-and-recruiting/	/resources/?resources%5B%5D=newsletter	OK	/resources/
+/vendorlist.aspx	/vendor/	OK
+/vendorList.aspx	/vendor/	OK
+/vendors.aspx	/vendor/	OK
+/video-conferencing-solutions.aspx	/audio-visual-and-video-conferencing/	OK	/?post_type=video&p=307
+/video-conferencing-solutions.aspx/assessments.aspx	/audio-visual-and-video-conferencing/	OK	/services/it-infrastructure/audio-visual-and-video-conferencing/
+/video-conferencing-solutions.aspx/cloudAssessment	/audio-visual-and-video-conferencing/	OK	/cloudassessment/
+/video-conferencing-solutions.aspx/DRfortheDay	/audio-visual-and-video-conferencing/	OK	/services/it-infrastructure/audio-visual-and-video-conferencing/
+/video-conferencing-solutions.aspx/virtualDesktops.aspx	/audio-visual-and-video-conferencing/	OK	/services/it-infrastructure/audio-visual-and-video-conferencing/
+/video-conferencing-solutions/how-video-conferencing-can-help-businesses.aspx	/audio-visual-and-video-conferencing/	OK	/services/it-infrastructure/audio-visual-and-video-conferencing/
+/video-conferencing-solutions/key-capabilities.aspx	/audio-visual-and-video-conferencing/	OK	/services/it-infrastructure/audio-visual-and-video-conferencing/
+/video-conferencing-solutions/video-conferencing-overview.aspx	/audio-visual-and-video-conferencing/	OK	/services/it-infrastructure/audio-visual-and-video-conferencing/
+/voip-network.aspx	/voip/	OK	/services/managed-it-cloud/voip/
+/voip-network.aspx/assessments.aspx	/voip/	OK	/services/managed-it-cloud/voip/
+/voip-network.aspx/brcVideo.aspx	/voip/	OK	/services/managed-it-cloud/voip/
+/voip-network.aspx/cloudAssessment	/voip/	OK	/cloudassessment/
+/voip-network.aspx/DRfortheDay	/voip/	OK	/services/managed-it-cloud/voip/
+/voip-network.aspx/StopMalware.aspx	/voip/	OK	/services/managed-it-cloud/voip/
+/voip-network.aspx/virtualDesktops.aspx	/voip/	OK	/services/managed-it-cloud/voip/
+/voip-readiness-check.aspx	/voip/	OK	/services/managed-it-cloud/voip/
+/voip-technology-infographic.aspx	/voip/	OK	/services/managed-it-cloud/voip/
+/voip-technology.aspx	/voip/	OK	/services/managed-it-cloud/voip/
+/voip/	/voip/	SAME
+/wireless-design-and-implementation.aspx	/wireless-design-and-implementation/	OK	/services/it-infrastructure/wireless-design-and-implementation/
+/wireless-design-and-implementation.aspx/assessments.aspx	/wireless-design-and-implementation/	OK	/services/it-infrastructure/wireless-design-and-implementation/
+/wireless-design-and-implementation.aspx/cloudAssessment	/wireless-design-and-implementation/	OK	/cloudassessment/
+/wireless-design-and-implementation.aspx/dataSecurity.aspx	/wireless-design-and-implementation/	OK	/services/it-infrastructure/wireless-design-and-implementation/
+/wireless-design-and-implementation.aspx/DRfortheDay	/wireless-design-and-implementation/	OK	/services/it-infrastructure/wireless-design-and-implementation/
+/wireless-design-and-implementation.aspx/StopMalware.aspx	/wireless-design-and-implementation/	OK	/services/it-infrastructure/wireless-design-and-implementation/
+/wireless-design-and-implementation.aspx/virtualDesktops.aspx	/wireless-design-and-implementation/	OK	/services/it-infrastructure/wireless-design-and-implementation/
+/wireless-design-and-implementation/	/wireless-design-and-implementation/	SAME
+/wireless-review.aspx	/wireless-design-and-implementation/	OK	/services/it-infrastructure/wireless-design-and-implementation/
+/files/ESGBriefMulti-Cloud%20StrategiesOnRise.pdf   ESGBriefMulti-Cloud-StrategiesOnRise
+/CEOBlog/	/resources/?resources%5B%5D=ceo-blog/
+/PartnerBlog/	/resources/?resources%5B%5D=partner-blog/
